@@ -24,4 +24,9 @@ public class NoModificar {
     public void setQueTal(String queTal) {
         this.queTal = queTal;
     }
+
+
+
+
+    
 }
